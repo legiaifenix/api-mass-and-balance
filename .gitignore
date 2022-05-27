@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# AUTO GENERATED
+node_modules
+dist
+
+# ENVIRONMENTAL
+.env
