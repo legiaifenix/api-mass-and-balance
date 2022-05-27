@@ -1,0 +1,20 @@
+{
+  "name": "api-mass-and-balance",
+  "version": "1.0.0",
+  "description": "An API to help calculate the mass and balance for airplanes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legiaifenix/api-mass-and-balance.git"
+  },
+  "keywords": [],
+  "author": "Diogo Santo",
+  "license": "AGNU v3.0",
+  "bugs": {
+    "url": "https://github.com/legiaifenix/api-mass-and-balance/issues"
+  },
+  "homepage": "https://github.com/legiaifenix/api-mass-and-balance#readme"
+}
