@@ -4,6 +4,8 @@
 # AUTO GENERATED
 node_modules
 dist
+cypress/screenshots
+cypress/videos
 
 # ENVIRONMENTAL
 .env
